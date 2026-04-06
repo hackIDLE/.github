@@ -1,0 +1,18 @@
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local-only: generation scripts, prompts, seed art
+profile/assets/generate.py
+profile/assets/prompts.md
+assets_client_upload_media_*
+
+# Claude plans
+.claude/
