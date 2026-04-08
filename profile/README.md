@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/banner.webp" alt="hackIDLE — Integrated Development and Learning Environment" width="100%" />
+<img src="https://raw.githubusercontent.com/hackIDLE/.github/main/profile/assets/banner.webp" alt="hackIDLE — Integrated Development and Learning Environment" width="100%" />
 
 ### hack*IDLE*
 
@@ -14,7 +14,7 @@ Not just red team. Not just compliance. Everything hacking means.
 
 ---
 
-<img src="assets/sec-inspectors.webp" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/hackIDLE/.github/main/profile/assets/sec-inspectors.webp" alt="" width="100%" />
 
 ### The Inspectors
 
@@ -22,15 +22,15 @@ Not just red team. Not just compliance. Everything hacking means.
 
 <table>
 <tr>
-<td align="center"><img src="assets/badges/cloud.webp" width="48" /><br/><sub>Cloud</sub></td>
-<td align="center"><img src="assets/badges/iam.webp" width="48" /><br/><sub>IAM</sub></td>
-<td align="center"><img src="assets/badges/security.webp" width="48" /><br/><sub>Security</sub></td>
-<td align="center"><img src="assets/badges/observability.webp" width="48" /><br/><sub>Observability</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/hackIDLE/.github/main/profile/assets/badges/cloud.webp" width="48" /><br/><sub>Cloud</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/hackIDLE/.github/main/profile/assets/badges/iam.webp" width="48" /><br/><sub>IAM</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/hackIDLE/.github/main/profile/assets/badges/security.webp" width="48" /><br/><sub>Security</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/hackIDLE/.github/main/profile/assets/badges/observability.webp" width="48" /><br/><sub>Observability</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="assets/badges/saas.webp" width="48" /><br/><sub>SaaS</sub></td>
-<td align="center"><img src="assets/badges/devops.webp" width="48" /><br/><sub>DevOps</sub></td>
-<td align="center"><img src="assets/badges/vuln.webp" width="48" /><br/><sub>Vuln/AppSec</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/hackIDLE/.github/main/profile/assets/badges/saas.webp" width="48" /><br/><sub>SaaS</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/hackIDLE/.github/main/profile/assets/badges/devops.webp" width="48" /><br/><sub>DevOps</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/hackIDLE/.github/main/profile/assets/badges/vuln.webp" width="48" /><br/><sub>Vuln/AppSec</sub></td>
 <td></td>
 </tr>
 </table>
@@ -54,7 +54,7 @@ Not just red team. Not just compliance. Everything hacking means.
 
 ---
 
-<img src="assets/toolkit.webp" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/hackIDLE/.github/main/profile/assets/toolkit.webp" alt="" width="100%" />
 
 ### The Toolkit
 
@@ -65,7 +65,7 @@ Not just red team. Not just compliance. Everything hacking means.
 
 ---
 
-<img src="assets/gym.webp" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/hackIDLE/.github/main/profile/assets/gym.webp" alt="" width="100%" />
 
 ### The Gym
 
@@ -75,7 +75,7 @@ RL environments for training language models on security and compliance tasks. T
 
 ---
 
-<img src="assets/rollup.webp" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/hackIDLE/.github/main/profile/assets/rollup.webp" alt="" width="100%" />
 
 ### The Roll Up
 
